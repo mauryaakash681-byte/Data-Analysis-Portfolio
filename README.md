@@ -17,4 +17,4 @@ It tracks total sales, units sold, transactions, average order value, customer r
 - **Model-wise:** Flagship models show the highest revenue per model
 
 ## 🔗 Screenshot & Demo
-- Dashboard screenshot - https://github.com/mauryaakash681-byte/Data-Analysis-Portfolio/blob/main/screenshot%20of%20BI%20dashboard.PN
+- Dashboard screenshot - (https://github.com/mauryaakash681-byte/Data-Analysis-Portfolio/blob/main/screenshot%20of%20BI%20dashboard.PNG)
