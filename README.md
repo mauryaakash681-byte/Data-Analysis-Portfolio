@@ -32,3 +32,11 @@ README with dataset description, KPI definitions, and navigation notes; screensh
 
 ## 🔗 Screenshot & Demo
 - Dashboard screenshot - (https://github.com/mauryaakash681-byte/Data-Analysis-Portfolio/blob/main/screenshot%20of%20BI%20dashboard.PNG)
+
+
+👤 Author
+
+Akash Maurya
+LinkedIn: https://www.linkedin.com/in/akashrkrmaurya/
+Email: mauryaakash681@gmail.com
+⭐ If you like this project, don’t forget to star this repo and share your feedback!
